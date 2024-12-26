@@ -1,0 +1,55 @@
+Descriptive Statistics Summary:
+Main Categories Frequency:
+Main_Categories
+Agriculture and Environmental Studies    1
+Architecture and Urban Planning          1
+Business and Management                  1
+Communication and Media Studies          1
+Education                                1
+Engineering and Technology               1
+Fine Arts and Design                     1
+Formal Sciences                          1
+Health and Medical Sciences              1
+Hospitality and Tourism                  1
+Humanities                               1
+Interdisciplinary Studies                1
+Law and Legal Studies                    1
+Natural Sciences                         1
+Social Sciences                          1
+Name: count, dtype: int64
+
+AI Level Frequency:
+AI_Level
+AI-practice             4
+AI-introduction         3
+AI-advanced             2
+AI-intermediate         2
+AI-project-based        2
+AI-upperintermediate    2
+Name: count, dtype: int64
+
+Delivery Mode Frequency:
+Delivery_Mode
+Weekly Sessions    9
+Project-based      4
+Intensive          2
+Name: count, dtype: int64
+
+Program Fee Frequency:
+Program_Fee
+1001-2000     9
+501-1000      3
+2001-5000     3
+0-500         0
+5001-10000    0
+Name: count, dtype: int64
+
+Program Duration Frequency:
+Duration_Weeks
+5-8 weeks      10
+0-4 weeks       5
+9-12 weeks      0
+13-16 weeks     0
+17-52 weeks     0
+Name: count, dtype: int64
+
